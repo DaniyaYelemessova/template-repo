@@ -1,4 +1,4 @@
-## <div align="center">Pizza Parlor</div>
+## <div align="center">Project name</div>
 
 #### <div align="center">💻 _Learning project for (..................) (date)_ </div>
 
@@ -76,7 +76,7 @@ describe('Name', () => {
 
 ## <div align="center"> 📬 _Contact Information_
 
-#### For any questions _[LinkedIn](www.linkedin.com/in/daniya-collings)_
+#### For any questions _[LinkedIn](https://www.linkedin.com/in/daniya-collings/)_
 
 ## <div align="center"> 📘 _License and copyright:_
 
